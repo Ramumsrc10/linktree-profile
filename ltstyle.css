@@ -1,0 +1,45 @@
+body{
+    background-image: url("bg.jpg");
+}
+.ram{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    padding-top: 30px;
+}
+.details{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+}
+.pofo{
+    border-style: outset;
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-color: grey;
+    cursor: pointer;
+}
+.pofo:hover{
+    color: tomato;
+}
+.im{
+    width: 35px;
+    height: 35px;
+}
+.ima{
+    align-items: center;
+}
+.imi{
+    width: 150px;
+    height: 100px;
+}
+.lio{
+    color: white;
+    text-decoration: none;
+}
+.lio:hover{
+    color: tomato;
+}
